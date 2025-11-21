@@ -5,6 +5,10 @@
   <img src="images/graphical.PNG" alt="Abstract image" width="900"/>
 </p>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6+-red.svg)](https://pytorch.org/)
+
 ## 🎯 Abstract
 
 Aquaculture is the fastest-growing food production
